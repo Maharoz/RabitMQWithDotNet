@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaAirline.API", "FormulaAirline.API\FormulaAirline.API.csproj", "{920872B8-8F5E-4421-BEAA-C207EC71E8F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaAirline.API", "FormulaAirline.API\FormulaAirline.API.csproj", "{920872B8-8F5E-4421-BEAA-C207EC71E8F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaAirline.TicketProcessing", "FormulaAirline.TicketProcessing\FormulaAirline.TicketProcessing.csproj", "{BF3E46B5-2463-4FEF-A988-A9BE09925341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FormulaAirline.TicketProcessing", "FormulaAirline.TicketProcessing\FormulaAirline.TicketProcessing.csproj", "{BF3E46B5-2463-4FEF-A988-A9BE09925341}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
